@@ -8,6 +8,7 @@ public class Login extends BasePage
 	public Login(WebDriver driver) {
 		super(driver);
 		// TODO Auto-generated constructor stub
-	}
+		
+		System.out.println("Helloooooooo");	}
 
 }
